@@ -4,6 +4,12 @@ Used for quickly spinning up small TypeScript/Node projects with ES6 interoperab
 
 # Running
 
+To lint:
+
+```bash
+npm run lint
+```
+
 To run scripts, add your code to `main.ts` and run
 
 ```bash
